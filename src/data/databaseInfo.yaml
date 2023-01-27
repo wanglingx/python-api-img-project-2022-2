@@ -1,0 +1,5 @@
+HOST: localhost
+USER: root
+PWD:
+DATABASE_NAME: flask_ui
+AUTH_PLUGIN: mysql_native_password
